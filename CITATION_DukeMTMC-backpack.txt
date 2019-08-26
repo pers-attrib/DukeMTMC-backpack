@@ -1,0 +1,6 @@
+@inproceedings{kraus2019,
+  title={Detecting Wearable Objects via Transfer Learning},
+  author={Kraus, Svatopluk and Krsek, Pavel and Malinovsk\'a, Krist\'ina and Tuna, Mat\'u\v{s}},
+  booktitle={2019 IEEE 15th International Conference on Intelligent Computer Communication and Processing (ICCP 2019)},
+  year={2019}
+}
